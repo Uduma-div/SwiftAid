@@ -1,0 +1,47 @@
+.appointments-list {
+    margin-top: 4em;
+    padding: 20px;
+  }
+  
+  .appointments-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .appointments-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .appointments-list li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .link-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .link-button:hover {
+    background-color: #0056b3;
+  }
+  .delete-button {
+    background-color: #ff4d4d; 
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .delete-button:hover {
+    background-color: #ff1a1a;
+  }

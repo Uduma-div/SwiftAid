@@ -1,0 +1,63 @@
+.doctor-container {
+    margin-top: 4em;
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .doctor-container h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+ 
+  .doctor-card {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    gap: 20px; 
+  }
+  
+
+  .doctor-card div {
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+    padding: 15px;
+    width: 250px; 
+    transition: transform 0.2s; 
+  }
+  
+  
+  .doctor-card div:hover {
+    transform: translateY(-5px); 
+  }
+  
+  
+  .doctor-image {
+    width: 100%; 
+    height: 180px; 
+    border-radius: 8px; 
+  }
+  
+  
+  .doctor-card h3 {
+    font-size: 1.5em;
+    margin: 10px 0;
+    color: #2c3e50; 
+  }
+  
+  
+  .speciality {
+    font-size: 1.1em;
+    color: #3498db; 
+    margin: 0;
+  }
+  
+  
+  .experience {
+    font-size: 0.9em;
+    color: #7f8c8d; 
+    margin: 0;
+  }

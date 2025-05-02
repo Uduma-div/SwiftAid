@@ -1,0 +1,57 @@
+.medical-record-container {
+    padding: 20px;
+    margin-top: 4em;
+  }
+  
+  .medical-record-form {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submit-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .record-list {
+    margin-top: 20px;
+  }
+  
+  .record-list h3 {
+    margin-bottom: 10px;
+  }
+  
+  .record-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .record-list li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }

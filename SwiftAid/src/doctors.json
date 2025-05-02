@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Adebola Oluwole",
+    "specialty": "Cardiologist",
+    "experience": 12,
+    "gender": "Male",
+    "imageUrl": "https://th.bing.com/th/id/R.d78d3df2413af247d8ba1e8a8e255b43?rik=5bsqU27AriGrVQ&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Chukwudi Okeke",
+    "specialty": "Neurologist",
+    "experience": 9,
+    "gender": "Male",
+    "imageUrl": "https://th.bing.com/th/id/R.215c1ff399e961851cc11a7810886a0e?rik=oZfxvnavGwz6cA&riu=http%3a%2f%2fwww.writergirl.com%2fwp-content%2fuploads%2f2014%2f11%2fDoctor-790X1024.jpg&ehk=CmnYm47Si7SLogCKQcVQ9Onueou53ycpcjvFFc3Ej00%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Femi Adesina",
+    "specialty": "Pediatrician",
+    "experience": 14,
+    "gender": "Male",
+    "imageUrl": "https://th.bing.com/th/id/R.57f752bd86b2f2329163c05f397f46f2?rik=cn9pTSPqFZV5sQ&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Yusuf Ibrahim",
+    "specialty": "Dermatologist",
+    "experience": 10,
+    "gender": "Male",
+    "imageUrl": "https://www.summit-urgentcare.com/wp-content/uploads/2014/12/Dollarphotoclub_69741928.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Aisha Salami",
+    "specialty": "Gynecologist",
+    "experience": 11,
+    "gender": "Female",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/210000/velka/doctor-1490804643Rfi.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Nneka Okoro",
+    "specialty": "Ophthalmologist",
+    "experience": 8,
+    "gender": "Female",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/210000/velka/doctor-1490804725EBH.jpg"
+  }
+]
